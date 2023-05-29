@@ -13,6 +13,7 @@ const fireplaces = require('./data/firplace.json');
 const floorings = require('./data/flooring.json');
 const bathrooms = require('./data/bathroom.json');
 const granites = require('./data/granite.json');
+const projects = require('./data/projects.json');
 
 app.use(cors());
 
@@ -54,6 +55,10 @@ app.get('/granites', (req, res) => {
 
 app.get('/bathrooms', (req, res) => {
     res.send(bathrooms)
+})
+
+app.get('/projects', (req, res) => {
+    res.send(projects);
 })
 
 app.get('/', (req, res) => {
