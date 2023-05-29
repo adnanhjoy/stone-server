@@ -1,0 +1,26 @@
+[
+    {
+        "id": "012",
+        "name": "Ruby",
+        "image": "https://img.freepik.com/free-photo/top-view-tiling-floor-concept_23-2149344002.jpg?w=740&t=st=1685274256~exp=1685274856~hmac=d77b80636081eddf7479a7ed31948bcf7c92457e6774a0d975b918fadc089ebb",
+        "price": "250"
+    },
+    {
+        "id": "013",
+        "name": "Topaz",
+        "image": "https://img.freepik.com/free-photo/paving-slabs-stacked-pallet-road-repair-process-closeup-selective-focus-tiles-seasonal-reconstruction-pavement-walking-paths-parks_166373-3647.jpg?w=740&t=st=1685274110~exp=1685274710~hmac=de5c63bb6159cff4e73bb63b9a202267830f36aeb00fc5f85daca3e141b338a8",
+        "price": "250"
+    },
+    {
+        "id": "014",
+        "name": "Opal",
+        "image": "https://img.freepik.com/free-photo/paving-slabs-pallets-keeping-goods-stock-construction-repair-delivery-sale-building-materials_166373-3214.jpg?w=740&t=st=1685274386~exp=1685274986~hmac=f4426ea5bacffe71b3f2e2d9907404fbcf2b09c230037613613c56c7f599eb16",
+        "price": "250"
+    },
+    {
+        "id": "013",
+        "name": "Topaz",
+        "image": "https://slabzone.com/images/granite-marble-remnants.jpg",
+        "price": "250"
+    }
+]
