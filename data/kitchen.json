@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "012",
+        "name" : "Ruby",
+        "image" : "https://images.pexels.com/photos/1628230/pexels-photo-1628230.jpeg?cs=srgb&dl=pexels-ihsan-adityawarman-1628230.jpg&fm=jpg",
+        "price" : "250"
+    },
+    {
+        "id" : "013",
+        "name" : "Topaz",
+        "image" : "https://kapiti.compostingnz.co.nz/wp-content/uploads/sites/2/2021/03/Blue-Stone.jpg",
+        "price" : "250"
+    },
+    {
+        "id" : "014",
+        "name" : "Opal",
+        "image" : "https://cf.ltkcdn.net/feng-shui/images/orig/304147-1600x1066-colorful-mineral-stones.jpeg",
+        "price" : "250"
+    },
+    {
+        "id" : "013",
+        "name" : "Topaz",
+        "image" : "https://www.researchdive.com/blogImages/9yX2R8aUsl.jpeg",
+        "price" : "250"
+    }
+]

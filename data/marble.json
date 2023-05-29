@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "012",
+        "name" : "Ruby",
+        "image" : "https://d2j6dbq0eux0bg.cloudfront.net/images/37720043/1736466309.jpg",
+        "price" : "250"
+    },
+    {
+        "id" : "013",
+        "name" : "Topaz",
+        "image" : "https://lite-stone.co.uk/cdn/shop/products/61db15_0ae66afab7844118885cfa5310d362e5_mv2_1400x.jpg?v=1646917916",
+        "price" : "250"
+    },
+    {
+        "id" : "014",
+        "name" : "Opal",
+        "image" : "https://marble-e-market.com/wp-content/uploads/2019/10/blue-emperador-stone.gif",
+        "price" : "250"
+    },
+    {
+        "id" : "013",
+        "name" : "Topaz",
+        "image" : "https://sinaimarbleandstone.com/wp-content/uploads/2021/02/sinaimarble.jpg",
+        "price" : "250"
+    }
+]

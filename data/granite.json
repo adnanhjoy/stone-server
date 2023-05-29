@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "012",
+        "name" : "Ruby",
+        "image" : "https://info.cacbydesign.com/hubfs/CACByDesign_September2020/Images/granite-slabs1.jpg?hsLang=en",
+        "price" : "250"
+    },
+    {
+        "id" : "013",
+        "name" : "Topaz",
+        "image" : "https://media.istockphoto.com/id/503047952/photo/natural-stone-tiles-marble-granite-samples-palette-stack.jpg?s=612x612&w=0&k=20&c=u4n8G_xouo13QE8OGooVbg1qhmayhLylaaf1enFDZKw=",
+        "price" : "250"
+    },
+    {
+        "id" : "014",
+        "name" : "Opal",
+        "image" : "https://www.rkmarblesindia.com/wp-content/uploads/2021/01/granite-slabs-1485341651-2700582.jpeg",
+        "price" : "250"
+    },
+    {
+        "id" : "013",
+        "name" : "Topaz",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwEzi1A1iFSyKawsHkaarlnjwpvC2hoxGEEQ&usqp=CAU",
+        "price" : "250"
+    }
+]

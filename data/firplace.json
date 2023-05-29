@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "012",
+        "name" : "Ruby",
+        "image" : "https://tile-giant.gumlet.io/media/wysiwyg/smallugc3.jpg",
+        "price" : "250"
+    },
+    {
+        "id" : "013",
+        "name" : "Topaz",
+        "image" : "https://cdn.shopify.com/s/files/1/2440/8571/files/IMG_060421_1_1024x1024.jpg?v=1636648596",
+        "price" : "250"
+    },
+    {
+        "id" : "014",
+        "name" : "Opal",
+        "image" : "https://cdn.shopify.com/s/files/1/0115/0917/0235/products/Heritage_Pattern_fireplace-3_600x.jpg?v=1660079278",
+        "price" : "250"
+    },
+    {
+        "id" : "013",
+        "name" : "Topaz",
+        "image" : "https://centsationalstyle.com/wp-content/uploads/2016/01/fireplace-makeover.jpg",
+        "price" : "250"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "012",
+        "name" : "Ruby",
+        "image" : "https://constrofacilitator.com/wp-content/uploads/2020/05/Ceramic-tiles.jpg",
+        "price" : "250"
+    },
+    {
+        "id" : "013",
+        "name" : "Topaz",
+        "image" : "https://www.realsimple.com/thmb/-snvAAGYcXVDlZzr-PWDTyeePHs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tile-types-2000-b4d32ec4def34078a15a2ae50105de14.jpg",
+        "price" : "250"
+    },
+    {
+        "id" : "014",
+        "name" : "Opal",
+        "image" : "https://img.freepik.com/premium-photo/geometric-marble-wall-tile-pattern-abstract-background_720013-222.jpg?w=2000",
+        "price" : "250"
+    },
+    {
+        "id" : "013",
+        "name" : "Topaz",
+        "image" : "https://img.freepik.com/premium-vector/vector-white-black-check-marble-seamless-pattern-repeat-diagonal-marbling-surface_497027-640.jpg?w=2000",
+        "price" : "250"
+    }
+]
